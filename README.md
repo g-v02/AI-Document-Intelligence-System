@@ -19,15 +19,18 @@
 
 # 📖 Project Overview
 
-Briefly describe your project.
+The AI Document Intelligence System is a Retrieval-Augmented Generation (RAG) platform designed to analyze, query, summarize, and extract structured insights from documents such as contracts, reports, and multi-page PDFs.
+It utilizes a decoupled client-server architecture, allowing heavy GPU model inference to run remotely while presenting a responsive, user-friendly interface locally.
+
 
 ---
 
 # ✨ Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- RAG-Powered Question Answering: Upload documents and ask specific questions. The system retrieves relevant passages using vector similarity search and generates context-grounded answers with source citations.
+- Structured Output Parsing: Uses custom schemas to parse unstructured text into formatted JSON containing summaries, key points/clauses, risk assessments, and exact reference quotes.
+- Document Summarization: Generates high-level executive summaries from long-form text documents.
+- Document Comparison: Compares two uploaded documents side-by-side to highlight key similarities, operational differences, and conflicting terms.
 
 ---
 
