@@ -84,11 +84,12 @@ Add screenshots, GIFs, or a demo video.
 
 # 📈 Results
 
-Zero-Prompt-Echo Inference: Sliced input token sequences during decoding to deliver clean, answer-only responses.
+- Zero-Prompt-Echo Inference: Sliced input token sequences during decoding to deliver clean, answer-only responses.
 
-Strict Output Parsing: Standardized non-deterministic LLM output into validated JSON schemas.
+- Strict Output Parsing: Standardized non-deterministic LLM output into validated JSON schemas.
 
-Efficient Cloud-to-Local Bridge: Connected local user interfaces seamlessly to high-performance remote GPU backends via ngrok tunneling.
+- Efficient Cloud-to-Local Bridge: Connected local user interfaces seamlessly to high-performance remote GPU backends via ngrok tunneling.
+
 ---
 
 # 🔮 Future Improvements
